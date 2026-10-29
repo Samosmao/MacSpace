@@ -1,0 +1,6 @@
+{
+  "version": "1.0.6",
+  "downloadUrl": "https://github.com/Samosmao/MacSpace/releases/download/v1.0.6/MacSpace_Setup_v1.0.6.exe",
+  "releaseNotes": "Windows installer, verified updates, and graceful update shutdown. Includes the Desktop 0 minimize fixes.",
+  "sha256": "4cdc1f9c8a64512ec2c142c2f179d52b5582fd9e1edeea62be2413d861dc9136"
+}
